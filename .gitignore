@@ -1,0 +1,6 @@
+# Project exclude paths
+/venv/
+/others/Dataset/
+/others/CNN/model/
+/USPS/Dataset/
+/USPS/CNN/model/
